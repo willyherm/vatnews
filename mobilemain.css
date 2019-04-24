@@ -1,0 +1,55 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 0.4em 0.4em;
+  text-decoration: none;
+}
+
+.top {
+  text-align: center;
+
+}
+
+.logo {
+  width: 9em;
+}
+
+.footertext {
+  font-size: 0.8em;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.Article1 {
+  border-style: solid;
+  border-radius: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0em;
+  padding-bottom: 0m;
+}
+
+.Article2 {
+  border-style: solid;
+  border-radius: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0em;
+  padding-bottom: 0m;
+}
